@@ -54,6 +54,10 @@ workspace {
         container horseCatalogSystem "ContainerDiagram" {
             include * 
         }
+
+        component frontEnd "ComponentDiagram" {
+            include * 
+        }
     }
 
 }

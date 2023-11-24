@@ -1,6 +1,6 @@
 
 horseCatalogSystem = softwareSystem "HorseCatalog System" {
-    frontEnd = container "HorseCatalog FrontEnd" tags "WebUi"
+    !include frontEndContainer.dsl
     uxApi = container "HorseCatalog Ux-Api For Web"
     authService = container "authService"
     adminService = container "adminService"

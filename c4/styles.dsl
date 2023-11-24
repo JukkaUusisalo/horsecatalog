@@ -40,6 +40,12 @@
                 color white
             } 
 
+            element Component {
+                shape Roundedbox
+                background green
+                color white                
+            }
+
             relationship "Hires" {
                 color blue
                 style dotted
