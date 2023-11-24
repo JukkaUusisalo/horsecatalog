@@ -9,7 +9,7 @@ workspace {
         competitor = person "Competitor"
         horse      = person "Horse" tags "Horse"
 
-        horseCatalogSystem = softwareSystem "HorseCatalog System"
+        !include horseCatalogSystem.dsl 
         kipa               = softwareSystem "Kipa" {
             tags "ExternalSystem"
         }
@@ -46,8 +46,13 @@ workspace {
 
     views {
         !include styles.dsl 
+
         systemContext horseCatalogSystem "SystemContextDiagram" {
             include *
+        }
+
+        container horseCatalogSystem "ContainerDiagram" {
+            include * 
         }
     }
 
