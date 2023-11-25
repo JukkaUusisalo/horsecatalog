@@ -1,5 +1,5 @@
 {
-  "name": "frontend-admin-ui",
+  "name": "@horsecatalog/frontend-admin-ui",
   "private": true,
   "version": "0.0.0",
   "type": "module",
