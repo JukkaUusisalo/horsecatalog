@@ -2,14 +2,58 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "lastModifiedDate" : "2023-11-24T12:53:35Z",
-  "lastModifiedAgent" : "structurizr-javascript",
+  "lastModifiedDate" : "2023-11-25T08:26:29Z",
   "properties" : {
     "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICAhYWRycyBhZHIKCiAgICBtb2RlbCB7CiAgICAgICAgb3duZXIgICAgICA9IHBlcnNvbiAiSG9yc2VPd25lciIKICAgICAgICBncm9vdnkgICAgID0gcGVyc29uICJHcm9vdnkiICAKICAgICAgICBhZG1pbiAgICAgID0gcGVyc29uICJBZG1pbiIKICAgICAgICBjb21wZXRpdG9yID0gcGVyc29uICJDb21wZXRpdG9yIgogICAgICAgIGhvcnNlICAgICAgPSBwZXJzb24gIkhvcnNlIiB0YWdzICJIb3JzZSIKCiAgICAgICAgCiAgICAgICAgaG9yc2VDYXRhbG9nU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkhvcnNlQ2F0YWxvZyBTeXN0ZW0iIHsKICAgICAgICAgICAgZnJvbnRFbmQgPSBjb250YWluZXIgIkhvcnNlQ2F0YWxvZyBGcm9udEVuZCIgdGFncyAiV2ViVWkiIHsKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBhZG1pblVJID0gY29tcG9uZW50ICJBZG1pbiBVSSBTUEEiCiAgICAgICAgICAgICAgICBvd25lclVJID0gY29tcG9uZW50ICJPd25lciBVSSBTUEEiCiAgICAgICAgICAgICAgICBncm9vdnlVSSA9IGNvbXBvbmVudCAiR3Jvb3Z5VUkgU1BBIgogICAgICAgICAgICAgICAgY29tcGV0aXRvclVJID0gY29tcG9uZW50ICJDb21wZXRpdG9yIFVJIFNQQSIKICAgICAgICAgICAgICAgIGNvbW1vblVJRWxlbWVudHMgPSBjb21wb25lbnQgIkNvbW1vbiBFbGVtZW50cyIKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBhdXRoZW50aWNhdGlvbiA9IGNvbXBvbmVudCAiQXV0aGVudGljYXRpb24iCiAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYWRtaW5VSSAgICAgICAgLT4gY29tbW9uVUlFbGVtZW50cyAidXNlIgogICAgICAgICAgICAgICAgb3duZXJVSSAgICAgICAgLT4gY29tbW9uVUlFbGVtZW50cyAidXNlIgogICAgICAgICAgICAgICAgY29tcGV0aXRvclVJICAgLT4gY29tbW9uVUlFbGVtZW50cyAidXNlIgogICAgICAgICAgICAgICAgZ3Jvb3Z5VUkgICAgICAgLT4gY29tbW9uVUlFbGVtZW50cyAidXNlIgogICAgICAgICAgICAKICAgICAgICAgICAgICAgIGNvbW1vblVJRWxlbWVudHMgLT4gYXV0aGVudGljYXRpb24gImRlcGVuZGVuY3kiCiAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIHV4QXBpID0gY29udGFpbmVyICJIb3JzZUNhdGFsb2cgVXgtQXBpIEZvciBXZWIiCiAgICAgICAgICAgIGF1dGhTZXJ2aWNlID0gY29udGFpbmVyICJhdXRoU2VydmljZSIKICAgICAgICAgICAgYWRtaW5TZXJ2aWNlID0gY29udGFpbmVyICJhZG1pblNlcnZpY2UiCiAgICAgICAgICAgIGhvcnNlU2VydmljZSA9IGNvbnRhaW5lciAiaG9yc2VTZXJ2aWNlIgogICAgICAgICAgICBkYXRhQmFzZSAgICAgPSBjb250YWluZXIgIkRhdGFiYXNlIiB7CiAgICAgICAgICAgICAgICB0YWdzICJEYXRhYmFzZSIKICAgICAgICAgICAgfQogICAgICAgICAgICBpbnRlZ3JhdGlvbiAgPSBDb250YWluZXIgIkludGVncmF0aW9uIFBsYXRmb3JtIgogICAgICAgIAogICAgICAgICAgICBmcm9udEVuZCAtPiB1eEFwaSAiaHR0cChzKS9qc29uIgogICAgICAgICAgICBmcm9udEVuZCAtPiBhdXRoU2VydmljZSAiVXNlIgogICAgICAgICAgICB1eEFwaSAgICAtPiBhdXRoU2VydmljZSAiVXNlIgogICAgICAgICAgICB1eEFwaSAgICAtPiBhZG1pblNlcnZpY2UgIlVzZSIKICAgICAgICAgICAgdXhBcGkgICAgLT4gaG9yc2VTZXJ2aWNlICJVc2UiCiAgICAgICAgICAgIGFkbWluU2VydmljZSAtPiBkYXRhQmFzZSAiVXNlIgogICAgICAgICAgICBob3JzZVNlcnZpY2UgLT4gZGF0YUJhc2UgIlVzZSIKICAgICAgICAgICAgaG9yc2VTZXJ2aWNlIC0+IGludGVncmF0aW9uICJVc2UiCiAgICAgICAgfQogICAgICAgIGtpcGEgICAgICAgICAgICAgICA9IHNvZnR3YXJlU3lzdGVtICJLaXBhIiB7CiAgICAgICAgICAgIHRhZ3MgIkV4dGVybmFsU3lzdGVtIgogICAgICAgIH0KICAgICAgICBlcXVpcGUgICAgICAgICAgICAgPSBzb2Z0d2FyZVN5c3RlbSAiRXF1aXBlIiB7CiAgICAgICAgICAgIHRhZ3MgIkV4dGVybmFsU3lzdGVtIgogICAgICAgIH0KICAgICAgICBzdWt1cG9zdGkgICAgICAgICAgPSBzb2Z0d2FyZVN5c3RlbSAiU3VrdXBvc3RpIiB7CiAgICAgICAgICAgIHRhZ3MgIkV4dGVybmFsU3lzdGVtIgogICAgICAgIH0KICAgICAgICBob3BvdGkgICAgICAgICAgICAgPSBzb2Z0d2FyZVN5c3RlbSAiSG9wb3RpIiB7CiAgICAgICAgICAgIHRhZ3MgIkV4dGVybmFsU3lzdGVtIgogICAgICAgIH0KICAgICAgICBoaXBwb3MgICAgICAgICAgICAgPSBzb2Z0d2FyZVN5c3RlbSAiSGlwcG9zIiB7CiAgICAgICAgICAgIHRhZ3MgIkV4dGVybmFsU3lzdGVtIgogICAgICAgIH0KCiAgICAgICAgb3duZXIgIC0+IGhvcnNlQ2F0YWxvZ1N5c3RlbSAiVXNlcyIKICAgICAgICBncm9vdnkgLT4gaG9yc2VDYXRhbG9nU3lzdGVtICJVc2VzIgogICAgICAgIGFkbWluICAtPiBob3JzZUNhdGFsb2dTeXN0ZW0gIlVzZXMiCiAgICAgICAgY29tcGV0aXRvciAtPiBob3JzZUNhdGFsb2dTeXN0ZW0gIlVzZXMiCiAgICAgICAgb3duZXIgLT4gY29tcGV0aXRvciAiSGlyZXMiCiAgICAgICAgb3duZXIgLT4gZ3Jvb3Z5ICJIaXJlcyIKICAgICAgICBvd25lciAtPiBob3JzZSAiT3ducyIKICAgICAgICBob3JzZSAtPiBob3JzZUNhdGFsb2dTeXN0ZW0gIm1haW50YWluZWRCeSIKICAgICAgICBncm9vdnkgLT4gaG9yc2UgInRha2VzIGNhcmUiCiAgICAgICAgY29tcGV0aXRvciAtPiBob3JzZSAidHJhaW4gYW5kIGNvbXBldGUiCgogICAgICAgIGhvcnNlQ2F0YWxvZ1N5c3RlbSAtPiBraXBhICJJbnRlZ3JhdGlvbiIKICAgICAgICBob3JzZUNhdGFsb2dTeXN0ZW0gLT4gZXF1aXBlICJJbnRlZ3JhdGlvbiIKICAgICAgICBob3JzZUNhdGFsb2dTeXN0ZW0gLT4gc3VrdXBvc3RpICJJbnRlZ3JhdGlvbiIKICAgICAgICBob3JzZUNhdGFsb2dTeXN0ZW0gLT4gaG9wb3RpICJJbnRlZ3JhdGlvbiIKICAgICAgICBob3JzZUNhdGFsb2dTeXN0ZW0gLT4gaGlwcG9zICJJbnRlZ3JhdGlvbiIKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgICAgICAgICBzdHlsZXMgewogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQgUGVyc29uIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2hhcGUgUGVyc29uCiAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQgYmx1ZQogICAgICAgICAgICAgICAgICAgICAgICBjb2xvciAgICAgIHdoaXRlCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQgRXh0ZXJuYWxTeXN0ZW0gewogICAgICAgICAgICAgICAgICAgICAgICBzaGFwZSBCb3gKICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZCByZWQKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3IgICAgICB3aGl0ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbGVtZW50ICJTb2Z0d2FyZSBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2hhcGUgUm91bmRlZGJveAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIGdyZWVuCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yIHdoaXRlCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgIAogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQgIkNvbnRhaW5lciIgewogICAgICAgICAgICAgICAgICAgICAgICBzaGFwZSBDb21wb25lbnQKICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZCBncmVlbgogICAgICAgICAgICAgICAgICAgICAgICBjb2xvciB3aGl0ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAKICAgICAgICAgICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIHJlZAogICAgICAgICAgICAgICAgICAgICAgICBjb2xvciB3aGl0ZQogICAgICAgICAgICAgICAgICAgIH0gICAKICAgICAgICAKICAgICAgICAgICAgICAgICAgICBlbGVtZW50ICJIb3JzZSIgewogICAgICAgICAgICAgICAgICAgICAgICBzaGFwZSBjaXJjbGUKICAgICAgICAgICAgICAgICAgICAgICAgaWNvbiBob3JzZS5wbmcKICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZCBncmVlbgogICAgICAgICAgICAgICAgICAgICAgICBjb2xvciAgICAgIHdoaXRlICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgIAogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQgIldlYlVpIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlIFdlYkJyb3dzZXIKICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZCByZWQKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3Igd2hpdGUKICAgICAgICAgICAgICAgICAgICB9IAogICAgICAgIAogICAgICAgICAgICAgICAgICAgIGVsZW1lbnQgQ29tcG9uZW50IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2hhcGUgUm91bmRlZGJveAogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kIGdyZWVuCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yIHdoaXRlICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAKICAgICAgICAgICAgICAgICAgICByZWxhdGlvbnNoaXAgIkhpcmVzIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yIGJsdWUKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGUgZG90dGVkCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICBzeXN0ZW1Db250ZXh0IGhvcnNlQ2F0YWxvZ1N5c3RlbSAiU3lzdGVtQ29udGV4dERpYWdyYW0iIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgaG9yc2VDYXRhbG9nU3lzdGVtICJDb250YWluZXJEaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKiAKICAgICAgICB9CgogICAgICAgIGNvbXBvbmVudCBmcm9udEVuZCAiQ29tcG9uZW50RGlhZ3JhbSIgewogICAgICAgICAgICBpbmNsdWRlICogCiAgICAgICAgfQogICAgfQoKfQo="
   },
   "configuration" : { },
   "model" : {
     "people" : [ {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "owner"
+      },
+      "name" : "HorseOwner",
+      "relationships" : [ {
+        "id" : "38",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "cf6b621f-15f6-4b32-adff-b4079179a2a1"
+        },
+        "sourceId" : "1",
+        "destinationId" : "6",
+        "description" : "Uses"
+      }, {
+        "id" : "42",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "63262ac9-49e1-44dc-8fff-be1303c8aa2c"
+        },
+        "sourceId" : "1",
+        "destinationId" : "4",
+        "description" : "Hires"
+      }, {
+        "id" : "43",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "87d7638e-fb32-4c4a-b76f-9d9f5045c5dc"
+        },
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Hires"
+      }, {
+        "id" : "44",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "c27dcabe-da5d-40f7-9fa5-3b2d59607c9b"
+        },
+        "sourceId" : "1",
+        "destinationId" : "5",
+        "description" : "Owns"
+      } ],
+      "location" : "Unspecified"
+    }, {
       "id" : "2",
       "tags" : "Element,Person",
       "properties" : {
@@ -20,7 +64,7 @@
         "id" : "39",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "00c3e328-f604-42be-b143-07cabf26c11d"
+          "structurizr.dsl.identifier" : "5d841e4f-01f8-46e1-b789-1d3715cc32d2"
         },
         "sourceId" : "2",
         "destinationId" : "6",
@@ -29,11 +73,56 @@
         "id" : "46",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "d0bf544b-a16f-40dd-9cac-2781c43af6bd"
+          "structurizr.dsl.identifier" : "28f03b63-bc54-47bd-9527-60f5ffb7c7f1"
         },
         "sourceId" : "2",
         "destinationId" : "5",
         "description" : "takes care"
+      } ],
+      "location" : "Unspecified"
+    }, {
+      "id" : "3",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "admin"
+      },
+      "name" : "Admin",
+      "relationships" : [ {
+        "id" : "40",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "70afd344-9585-4c8b-bcae-ae3a5ad9677c"
+        },
+        "sourceId" : "3",
+        "destinationId" : "6",
+        "description" : "Uses"
+      } ],
+      "location" : "Unspecified"
+    }, {
+      "id" : "4",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "competitor"
+      },
+      "name" : "Competitor",
+      "relationships" : [ {
+        "id" : "41",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "63da1abb-5bb1-429f-814d-20a9800b6911"
+        },
+        "sourceId" : "4",
+        "destinationId" : "6",
+        "description" : "Uses"
+      }, {
+        "id" : "47",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "3f86cf91-d4e3-481f-8383-dfa227fb1a31"
+        },
+        "sourceId" : "4",
+        "destinationId" : "5",
+        "description" : "train and compete"
       } ],
       "location" : "Unspecified"
     }, {
@@ -48,123 +137,15 @@
         "id" : "45",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "92a5a40d-5b4d-4ab4-a50c-66dbbba8e9ca"
+          "structurizr.dsl.identifier" : "b877018a-ac6e-4ffa-9ee3-53a5dac77cef"
         },
         "sourceId" : "5",
         "destinationId" : "6",
         "description" : "maintainedBy"
       } ],
       "location" : "Unspecified"
-    }, {
-      "id" : "4",
-      "tags" : "Element,Person",
-      "properties" : {
-        "structurizr.dsl.identifier" : "competitor"
-      },
-      "name" : "Competitor",
-      "relationships" : [ {
-        "id" : "47",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "15702710-3ead-44eb-8853-a116809f9490"
-        },
-        "sourceId" : "4",
-        "destinationId" : "5",
-        "description" : "train and compete"
-      }, {
-        "id" : "41",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "be2d05fa-8d3d-4f57-b571-8dc4a1bd13cd"
-        },
-        "sourceId" : "4",
-        "destinationId" : "6",
-        "description" : "Uses"
-      } ],
-      "location" : "Unspecified"
-    }, {
-      "id" : "3",
-      "tags" : "Element,Person",
-      "properties" : {
-        "structurizr.dsl.identifier" : "admin"
-      },
-      "name" : "Admin",
-      "relationships" : [ {
-        "id" : "40",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "75dd7392-7bcd-4c09-98d2-faf810414a9a"
-        },
-        "sourceId" : "3",
-        "destinationId" : "6",
-        "description" : "Uses"
-      } ],
-      "location" : "Unspecified"
-    }, {
-      "id" : "1",
-      "tags" : "Element,Person",
-      "properties" : {
-        "structurizr.dsl.identifier" : "owner"
-      },
-      "name" : "HorseOwner",
-      "relationships" : [ {
-        "id" : "38",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "6913cb09-e86d-4f35-a283-51a1c9470638"
-        },
-        "sourceId" : "1",
-        "destinationId" : "6",
-        "description" : "Uses"
-      }, {
-        "id" : "43",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "ec1a6414-204a-4acb-91d5-fb7d5d2384aa"
-        },
-        "sourceId" : "1",
-        "destinationId" : "2",
-        "description" : "Hires"
-      }, {
-        "id" : "42",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "3d295605-fc13-4081-b245-f6db4ff08ee0"
-        },
-        "sourceId" : "1",
-        "destinationId" : "4",
-        "description" : "Hires"
-      }, {
-        "id" : "44",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "81311313-1379-4520-8164-97a9bab4dc36"
-        },
-        "sourceId" : "1",
-        "destinationId" : "5",
-        "description" : "Owns"
-      } ],
-      "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
-      "id" : "35",
-      "tags" : "Element,Software System,ExternalSystem",
-      "properties" : {
-        "structurizr.dsl.identifier" : "sukuposti"
-      },
-      "name" : "Sukuposti",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
-      "id" : "34",
-      "tags" : "Element,Software System,ExternalSystem",
-      "properties" : {
-        "structurizr.dsl.identifier" : "equipe"
-      },
-      "name" : "Equipe",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
       "id" : "6",
       "tags" : "Element,Software System",
       "properties" : {
@@ -172,87 +153,53 @@
       },
       "name" : "HorseCatalog System",
       "relationships" : [ {
-        "id" : "52",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "63491e73-0b88-47c7-ac9b-f9d22ef5a7f9"
-        },
-        "sourceId" : "6",
-        "destinationId" : "37",
-        "description" : "Integration"
-      }, {
-        "id" : "51",
-        "tags" : "Relationship",
-        "properties" : {
-          "structurizr.dsl.identifier" : "dbff631b-fc51-45c9-a4b1-7796c5ae2058"
-        },
-        "sourceId" : "6",
-        "destinationId" : "36",
-        "description" : "Integration"
-      }, {
         "id" : "48",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "e26bbe85-6727-4a67-b274-1199c5ffd5c5"
+          "structurizr.dsl.identifier" : "e4faa991-67a6-463e-aa19-2ec59c661eb7"
         },
         "sourceId" : "6",
         "destinationId" : "33",
         "description" : "Integration"
       }, {
+        "id" : "49",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "4b92b381-1589-4cb7-be3c-e33c166544a7"
+        },
+        "sourceId" : "6",
+        "destinationId" : "34",
+        "description" : "Integration"
+      }, {
         "id" : "50",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "293810b9-471f-4e12-9373-5ae9cc5feac9"
+          "structurizr.dsl.identifier" : "37a28d78-e8c0-4b6e-9e43-55752a479d4e"
         },
         "sourceId" : "6",
         "destinationId" : "35",
         "description" : "Integration"
       }, {
-        "id" : "49",
+        "id" : "51",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "1df4f3dd-3451-4e6d-b9d8-82d4530637c9"
+          "structurizr.dsl.identifier" : "eecfc139-5f4b-457a-aacc-38d8abb88b98"
         },
         "sourceId" : "6",
-        "destinationId" : "34",
+        "destinationId" : "36",
+        "description" : "Integration"
+      }, {
+        "id" : "52",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "9deed157-db40-4a4b-9238-f65b1af40da4"
+        },
+        "sourceId" : "6",
+        "destinationId" : "37",
         "description" : "Integration"
       } ],
       "location" : "Unspecified",
       "containers" : [ {
-        "id" : "21",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "adminservice"
-        },
-        "name" : "adminService",
-        "relationships" : [ {
-          "id" : "30",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "cf6afbe2-f96d-40d2-b512-3b061eee141a"
-          },
-          "sourceId" : "21",
-          "destinationId" : "23",
-          "description" : "Use"
-        } ],
-        "documentation" : { }
-      }, {
-        "id" : "23",
-        "tags" : "Element,Container,Database",
-        "properties" : {
-          "structurizr.dsl.identifier" : "database"
-        },
-        "name" : "Database",
-        "documentation" : { }
-      }, {
-        "id" : "24",
-        "tags" : "Element,Container",
-        "properties" : {
-          "structurizr.dsl.identifier" : "integration"
-        },
-        "name" : "Integration Platform",
-        "documentation" : { }
-      }, {
         "id" : "7",
         "tags" : "Element,Container",
         "properties" : {
@@ -261,26 +208,44 @@
         "name" : "HorseCatalog FrontEnd",
         "description" : "tags",
         "relationships" : [ {
-          "id" : "26",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "d54fb9d2-c03a-4b31-929e-5e590067095d"
-          },
-          "sourceId" : "7",
-          "destinationId" : "20",
-          "description" : "Use"
-        }, {
           "id" : "25",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "1a973b89-0745-46d9-8068-c7c5ff237c61"
+            "structurizr.dsl.identifier" : "51c65ed5-aef8-4f82-86d9-d0d819bcbc31"
           },
           "sourceId" : "7",
           "destinationId" : "19",
           "description" : "http(s)/json"
+        }, {
+          "id" : "26",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "deb10681-4042-4b0e-a945-04100c0f1596"
+          },
+          "sourceId" : "7",
+          "destinationId" : "20",
+          "description" : "Use"
         } ],
         "technology" : "WebUi",
         "components" : [ {
+          "id" : "9",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "ownerui"
+          },
+          "name" : "Owner UI SPA",
+          "relationships" : [ {
+            "id" : "15",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "9f005636-3106-4785-b212-0cb6e80df749"
+            },
+            "sourceId" : "9",
+            "destinationId" : "12",
+            "description" : "use"
+          } ],
+          "documentation" : { }
+        }, {
           "id" : "11",
           "tags" : "Element,Component",
           "properties" : {
@@ -291,7 +256,7 @@
             "id" : "16",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "f488e352-81ac-46cd-8fde-0269da19e4a3"
+              "structurizr.dsl.identifier" : "3a78ea15-55b0-4a29-a34f-65645754a215"
             },
             "sourceId" : "11",
             "destinationId" : "12",
@@ -309,11 +274,29 @@
             "id" : "18",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "4d9dbf38-a163-41e6-ba0b-0c6ee40e379c"
+              "structurizr.dsl.identifier" : "8d5d6799-88f2-4d72-8d0e-c830f9e5bf8e"
             },
             "sourceId" : "12",
             "destinationId" : "13",
             "description" : "dependency"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "8",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "adminui"
+          },
+          "name" : "Admin UI SPA",
+          "relationships" : [ {
+            "id" : "14",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "6c69d8ca-2cde-4b2d-ad62-9fe0562e42f2"
+            },
+            "sourceId" : "8",
+            "destinationId" : "12",
+            "description" : "use"
           } ],
           "documentation" : { }
         }, {
@@ -327,27 +310,9 @@
             "id" : "17",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "5b95870f-4eba-441a-be2a-6d486b691779"
+              "structurizr.dsl.identifier" : "78466f23-ede9-46e1-897a-e8e98fa7d835"
             },
             "sourceId" : "10",
-            "destinationId" : "12",
-            "description" : "use"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "9",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "ownerui"
-          },
-          "name" : "Owner UI SPA",
-          "relationships" : [ {
-            "id" : "15",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "20819b9d-4cbb-48f3-9bbd-2c73475501a2"
-            },
-            "sourceId" : "9",
             "destinationId" : "12",
             "description" : "use"
           } ],
@@ -360,24 +325,32 @@
           },
           "name" : "Authentication",
           "documentation" : { }
-        }, {
-          "id" : "8",
-          "tags" : "Element,Component",
+        } ],
+        "documentation" : { }
+      }, {
+        "id" : "23",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "database"
+        },
+        "name" : "Database",
+        "documentation" : { }
+      }, {
+        "id" : "21",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "adminservice"
+        },
+        "name" : "adminService",
+        "relationships" : [ {
+          "id" : "30",
+          "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "adminui"
+            "structurizr.dsl.identifier" : "6afdb696-0430-48a6-ad5d-7477f8449a9f"
           },
-          "name" : "Admin UI SPA",
-          "relationships" : [ {
-            "id" : "14",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "9def1dad-9de9-4022-8f1b-5d17e91a1a54"
-            },
-            "sourceId" : "8",
-            "destinationId" : "12",
-            "description" : "use"
-          } ],
-          "documentation" : { }
+          "sourceId" : "21",
+          "destinationId" : "23",
+          "description" : "Use"
         } ],
         "documentation" : { }
       }, {
@@ -391,28 +364,28 @@
           "id" : "27",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "661ad8c5-d98d-40e5-9c3f-5ea4e3e9239a"
+            "structurizr.dsl.identifier" : "43580513-06ce-43bf-9dfa-41e85e73e23c"
           },
           "sourceId" : "19",
           "destinationId" : "20",
           "description" : "Use"
         }, {
-          "id" : "29",
-          "tags" : "Relationship",
-          "properties" : {
-            "structurizr.dsl.identifier" : "45312827-b0f7-49f4-b238-baaa41240274"
-          },
-          "sourceId" : "19",
-          "destinationId" : "22",
-          "description" : "Use"
-        }, {
           "id" : "28",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "402b9e02-252e-47c7-8ed4-57babe8b7c52"
+            "structurizr.dsl.identifier" : "5aa8be6c-fb0d-4969-8d99-1d5f74ed0486"
           },
           "sourceId" : "19",
           "destinationId" : "21",
+          "description" : "Use"
+        }, {
+          "id" : "29",
+          "tags" : "Relationship",
+          "properties" : {
+            "structurizr.dsl.identifier" : "40a1a88b-c052-435e-8a04-3f1e7e6caa2f"
+          },
+          "sourceId" : "19",
+          "destinationId" : "22",
           "description" : "Use"
         } ],
         "documentation" : { }
@@ -425,6 +398,14 @@
         "name" : "authService",
         "documentation" : { }
       }, {
+        "id" : "24",
+        "tags" : "Element,Container",
+        "properties" : {
+          "structurizr.dsl.identifier" : "integration"
+        },
+        "name" : "Integration Platform",
+        "documentation" : { }
+      }, {
         "id" : "22",
         "tags" : "Element,Container",
         "properties" : {
@@ -435,7 +416,7 @@
           "id" : "31",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "ce888802-38e7-4a9b-bbc2-7d57eed82425"
+            "structurizr.dsl.identifier" : "a60a54e0-438a-4b53-907f-b5c3803b6694"
           },
           "sourceId" : "22",
           "destinationId" : "23",
@@ -444,7 +425,7 @@
           "id" : "32",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "67bc6b19-1ad3-4f6c-a667-6010c6a6075a"
+            "structurizr.dsl.identifier" : "0dc8889c-3e86-47e2-bf15-c4f589f5a997"
           },
           "sourceId" : "22",
           "destinationId" : "24",
@@ -454,21 +435,39 @@
       } ],
       "documentation" : { }
     }, {
-      "id" : "36",
-      "tags" : "Element,Software System,ExternalSystem",
-      "properties" : {
-        "structurizr.dsl.identifier" : "hopoti"
-      },
-      "name" : "Hopoti",
-      "location" : "Unspecified",
-      "documentation" : { }
-    }, {
       "id" : "33",
       "tags" : "Element,Software System,ExternalSystem",
       "properties" : {
         "structurizr.dsl.identifier" : "kipa"
       },
       "name" : "Kipa",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "34",
+      "tags" : "Element,Software System,ExternalSystem",
+      "properties" : {
+        "structurizr.dsl.identifier" : "equipe"
+      },
+      "name" : "Equipe",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "35",
+      "tags" : "Element,Software System,ExternalSystem",
+      "properties" : {
+        "structurizr.dsl.identifier" : "sukuposti"
+      },
+      "name" : "Sukuposti",
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "36",
+      "tags" : "Element,Software System,ExternalSystem",
+      "properties" : {
+        "structurizr.dsl.identifier" : "hopoti"
+      },
+      "name" : "Hopoti",
       "location" : "Unspecified",
       "documentation" : { }
     }, {
@@ -503,6 +502,20 @@
       "id" : "3",
       "title" : "use structurizr as modelling tool",
       "date" : "2023-11-24T00:00:00Z",
+      "status" : "Accepted"
+    }, {
+      "content" : "# 4. frontend tech stack\n\nDate: 2023-11-24\n\n## Status\n\nAccepted\n\n## Context\n\nNeed select techstack front development  \n\n## Decision\n\nReact, Vite and Tailwind\n\n## Consequences\n\nPropably safe choice atm.\n",
+      "format" : "Markdown",
+      "id" : "4",
+      "title" : "frontend tech stack",
+      "date" : "2023-11-24T00:00:00Z",
+      "status" : "Accepted"
+    }, {
+      "content" : "# 5. use monorepo\n\nDate: 2023-11-25\n\n## Status\n\nAccepted\n\n## Context\n\nSystem contains multipe different components and microservices. There is anyway\nsome common reusable elements and pieces of code between services. For development point of view monorepo would be comfortable option.  \n\n## Decision\n\nLet's put them to monorepo\n\n## Consequences\n\nLet's see how versions of microservices work. It would nice to make own versions for each microservices.\n",
+      "format" : "Markdown",
+      "id" : "5",
+      "title" : "use monorepo",
+      "date" : "2023-11-25T00:00:00Z",
       "status" : "Accepted"
     } ]
   },
@@ -764,7 +777,6 @@
         } ]
       },
       "terminology" : { },
-      "metadataSymbols" : "SquareBrackets",
       "lastSavedView" : "ComponentDiagram"
     }
   }
