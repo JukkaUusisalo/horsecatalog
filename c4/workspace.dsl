@@ -4,7 +4,7 @@ workspace {
 
     model {
         owner      = person "HorseOwner"
-        groovy     = person "Groovy"  
+        groom     = person "Groom"  
         admin      = person "Admin"
         competitor = person "Competitor"
         horse      = person "Horse" tags "Horse"
@@ -27,14 +27,14 @@ workspace {
         }
 
         owner  -> horseCatalogSystem "Uses"
-        groovy -> horseCatalogSystem "Uses"
+        groom -> horseCatalogSystem "Uses"
         admin  -> horseCatalogSystem "Uses"
         competitor -> horseCatalogSystem "Uses"
         owner -> competitor "Hires"
-        owner -> groovy "Hires"
+        owner -> groom "Hires"
         owner -> horse "Owns"
         horse -> horseCatalogSystem "maintainedBy"
-        groovy -> horse "takes care"
+        groom -> horse "takes care"
         competitor -> horse "train and compete"
 
         horseCatalogSystem -> kipa "Integration"
